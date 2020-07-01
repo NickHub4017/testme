@@ -23,7 +23,7 @@ db.close()
 import SimpleHTTPServer
 import SocketServer
 
-PORT = 8000
+PORT = 80
 
 Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
 
